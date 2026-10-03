@@ -1,0 +1,278 @@
+/* Preparation notebook and pronunciation grid. */
+.kana-page {
+  max-width: 1160px;
+  margin: auto;
+  padding: 28px 24px 70px;
+  color: var(--ink);
+}
+.kana-top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: space-between;
+  font-size: 14px;
+  min-height: 52px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 20px;
+}
+.kana-top a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--primary);
+}
+.kana-footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: space-between;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+.kana-footer a,
+.kana-footer button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  padding: 12px 16px;
+  font-size: 13px;
+  text-decoration: none;
+  color: var(--primary);
+  cursor: pointer;
+  border-radius: 5px;
+  background: var(--soft-green);
+}
+.kana-heading > span {
+  letter-spacing: 0.12em;
+  font-size: 11px;
+  color: var(--coral);
+}
+.kana-heading h1 {
+  margin: 12px 0;
+  font-family: var(--font-literary);
+  font-size: clamp(30px, 4vw, 42px);
+  font-weight: 500;
+  line-height: 1.5;
+}
+.kana-heading p {
+  color: var(--muted-foreground);
+  margin: 8px 0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+.kana-layout {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+}
+.kana-nav {
+  display: grid;
+  position: sticky;
+  top: 24px;
+  gap: 4px;
+}
+.kana-nav button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 15px 12px;
+  font-size: 14px;
+}
+.kana-nav button > span {
+  font-size: 12px;
+  color: var(--muted-foreground);
+}
+.kana-nav button[aria-current] {
+  background: var(--soft-green);
+  color: var(--primary);
+  font-weight: 500;
+  border-color: transparent;
+  box-shadow: inset 3px 0 var(--primary);
+}
+.kana-unit {
+  background: var(--white);
+  border: 1px solid var(--line);
+  min-width: 0;
+  border-radius: 5px;
+  box-shadow: var(--paper-shadow);
+  padding: 30px;
+}
+.kana-unit h2 {
+  margin: 0 0 12px;
+  font-family: var(--font-literary);
+  font-size: 27px;
+  font-weight: 500;
+}
+.kana-unit > p {
+  line-height: 1.8;
+  color: var(--muted-foreground);
+  font-size: 14px;
+}
+.kana-notes {
+  line-height: 1.8;
+  color: var(--muted-foreground);
+  font-size: 14px;
+  padding: 14px 18px 14px 34px;
+  margin: 18px 0;
+  background: var(--soft-paper);
+  border-radius: 4px;
+}
+.kana-grid {
+  display: grid;
+  gap: 10px;
+  margin-top: 24px;
+}
+.kana-columns-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+.kana-columns-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.kana-columns-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.kana-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 115px;
+  padding: 16px 6px;
+  border: 1px solid var(--line);
+  color: var(--primary);
+  cursor: pointer;
+  min-width: 0;
+  border-radius: 5px;
+  background: var(--white);
+  border-color: var(--line);
+  box-shadow: 0 2px 0 var(--soft-paper);
+}
+.kana-cell strong {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  font-family: var(--font-literary);
+  font-weight: 500;
+  font-size: 30px;
+}
+.kana-cell small {
+  font-size: 12px;
+  color: var(--muted-foreground);
+}
+.kana-audio {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--muted-foreground);
+}
+.kana-beats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.kana-beats > span {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 12px;
+}
+.kana-beats i {
+  color: var(--muted-foreground);
+  font-size: 11px;
+  font-style: normal;
+}
+.kana-cell:focus-visible,
+.kana-nav button:focus-visible {
+  outline: 3px solid var(--ring);
+  outline-offset: 3px;
+}
+.kana-mobile-unit {
+  display: none;
+}
+.kana-top > span {
+  color: var(--coral);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+.kana-heading {
+  padding: 38px 0 30px;
+}
+.kana-heading p:last-child {
+  font-size: 12px;
+  color: var(--primary);
+}
+.kana-cell:hover,
+.kana-cell.playing {
+  background: var(--soft-green);
+  border-color: var(--ring);
+}
+@media (max-width: 700px) {
+  .kana-page {
+    padding: 20px 14px 40px;
+  }
+  .kana-layout {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .kana-nav {
+    position: static;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    display: none;
+    gap: 6px;
+    margin-bottom: 6px;
+  }
+  .kana-grid {
+    gap: 5px;
+  }
+  .kana-cell {
+    min-height: 100px;
+    padding: 12px 3px;
+  }
+  .kana-top {
+    font-size: 11px;
+    padding-bottom: 16px;
+  }
+  .kana-mobile-unit {
+    display: grid;
+    gap: 10px;
+    color: var(--muted-foreground);
+    font-size: 12px;
+  }
+  .kana-mobile-unit select {
+    width: 100%;
+    min-width: 0;
+    padding: 12px;
+    background: var(--white);
+    color: var(--primary);
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  .kana-heading {
+    padding: 28px 0 22px;
+  }
+  .kana-unit {
+    padding: 24px 14px;
+  }
+  .kana-nav button {
+    font-size: 13px;
+    padding: 12px 9px;
+  }
+  .kana-cell strong {
+    font-size: 24px;
+  }
+  .kana-cell small {
+    font-size: 11px;
+  }
+}

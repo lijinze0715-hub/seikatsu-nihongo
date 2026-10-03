@@ -1,0 +1,1300 @@
+{
+  "id": "preparation",
+  "legacyStorageKey": "准备篇:prelude",
+  "title": "假名与基础发音",
+  "subtitle": "只学假名、声音组合与拍子",
+  "units": [
+    {
+      "id": "hiragana",
+      "title": "平假名五十音",
+      "intro": "按 a・i・u・e・o 的顺序，一行一行认读。现代基本平假名有46个。",
+      "notes": [
+        "空位不是漏字；现代通常不使用旧假名ゐ、ゑ。",
+        "し读 shi，ち读 chi，つ读 tsu，ふ读 fu；を通常读 o。",
+        "罗马字仅作读音提示，不是英语发音。ん的拍子和发音放到最后单独练习。",
+        "单独认读时は读ha、へ读he；作助词时分别读wa、e。助词を读o。"
+      ],
+      "columns": 5,
+      "rows": [
+        [
+          {
+            "text": "あ",
+            "hint": "a",
+            "speech": "あ"
+          },
+          {
+            "text": "い",
+            "hint": "i",
+            "speech": "い"
+          },
+          {
+            "text": "う",
+            "hint": "u",
+            "speech": "う"
+          },
+          {
+            "text": "え",
+            "hint": "e",
+            "speech": "え"
+          },
+          {
+            "text": "お",
+            "hint": "o",
+            "speech": "お"
+          }
+        ],
+        [
+          {
+            "text": "か",
+            "hint": "ka",
+            "speech": "か"
+          },
+          {
+            "text": "き",
+            "hint": "ki",
+            "speech": "き"
+          },
+          {
+            "text": "く",
+            "hint": "ku",
+            "speech": "く"
+          },
+          {
+            "text": "け",
+            "hint": "ke",
+            "speech": "け"
+          },
+          {
+            "text": "こ",
+            "hint": "ko",
+            "speech": "こ"
+          }
+        ],
+        [
+          {
+            "text": "さ",
+            "hint": "sa",
+            "speech": "さ"
+          },
+          {
+            "text": "し",
+            "hint": "shi",
+            "speech": "し"
+          },
+          {
+            "text": "す",
+            "hint": "su",
+            "speech": "す"
+          },
+          {
+            "text": "せ",
+            "hint": "se",
+            "speech": "せ"
+          },
+          {
+            "text": "そ",
+            "hint": "so",
+            "speech": "そ"
+          }
+        ],
+        [
+          {
+            "text": "た",
+            "hint": "ta",
+            "speech": "た"
+          },
+          {
+            "text": "ち",
+            "hint": "chi",
+            "speech": "ち"
+          },
+          {
+            "text": "つ",
+            "hint": "tsu",
+            "speech": "つ"
+          },
+          {
+            "text": "て",
+            "hint": "te",
+            "speech": "て"
+          },
+          {
+            "text": "と",
+            "hint": "to",
+            "speech": "と"
+          }
+        ],
+        [
+          {
+            "text": "な",
+            "hint": "na",
+            "speech": "な"
+          },
+          {
+            "text": "に",
+            "hint": "ni",
+            "speech": "に"
+          },
+          {
+            "text": "ぬ",
+            "hint": "nu",
+            "speech": "ぬ"
+          },
+          {
+            "text": "ね",
+            "hint": "ne",
+            "speech": "ね"
+          },
+          {
+            "text": "の",
+            "hint": "no",
+            "speech": "の"
+          }
+        ],
+        [
+          {
+            "text": "は",
+            "hint": "ha",
+            "speech": "ハ"
+          },
+          {
+            "text": "ひ",
+            "hint": "hi",
+            "speech": "ひ"
+          },
+          {
+            "text": "ふ",
+            "hint": "fu",
+            "speech": "ふ"
+          },
+          {
+            "text": "へ",
+            "hint": "he",
+            "speech": "ヘ"
+          },
+          {
+            "text": "ほ",
+            "hint": "ho",
+            "speech": "ほ"
+          }
+        ],
+        [
+          {
+            "text": "ま",
+            "hint": "ma",
+            "speech": "ま"
+          },
+          {
+            "text": "み",
+            "hint": "mi",
+            "speech": "み"
+          },
+          {
+            "text": "む",
+            "hint": "mu",
+            "speech": "む"
+          },
+          {
+            "text": "め",
+            "hint": "me",
+            "speech": "め"
+          },
+          {
+            "text": "も",
+            "hint": "mo",
+            "speech": "も"
+          }
+        ],
+        [
+          {
+            "text": "や",
+            "hint": "ya",
+            "speech": "や"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "ゆ",
+            "hint": "yu",
+            "speech": "ゆ"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "よ",
+            "hint": "yo",
+            "speech": "よ"
+          }
+        ],
+        [
+          {
+            "text": "ら",
+            "hint": "ra",
+            "speech": "ら"
+          },
+          {
+            "text": "り",
+            "hint": "ri",
+            "speech": "り"
+          },
+          {
+            "text": "る",
+            "hint": "ru",
+            "speech": "る"
+          },
+          {
+            "text": "れ",
+            "hint": "re",
+            "speech": "れ"
+          },
+          {
+            "text": "ろ",
+            "hint": "ro",
+            "speech": "ろ"
+          }
+        ],
+        [
+          {
+            "text": "わ",
+            "hint": "wa",
+            "speech": "わ"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "を",
+            "hint": "o (wo)",
+            "speech": "オ"
+          }
+        ],
+        [
+          {
+            "text": "ん",
+            "hint": "n",
+            "speech": "ん"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": "katakana",
+      "title": "片假名五十音",
+      "intro": "与平假名一一对应：声音相同，字形不同。",
+      "notes": [
+        "先认单个字形，再对照平假名；这里不加入外来语单词。",
+        "注意区分シ／ツ、ソ／ン，以及ク／ケ。"
+      ],
+      "columns": 5,
+      "rows": [
+        [
+          {
+            "text": "ア",
+            "hint": "a",
+            "speech": "ア"
+          },
+          {
+            "text": "イ",
+            "hint": "i",
+            "speech": "イ"
+          },
+          {
+            "text": "ウ",
+            "hint": "u",
+            "speech": "ウ"
+          },
+          {
+            "text": "エ",
+            "hint": "e",
+            "speech": "エ"
+          },
+          {
+            "text": "オ",
+            "hint": "o",
+            "speech": "オ"
+          }
+        ],
+        [
+          {
+            "text": "カ",
+            "hint": "ka",
+            "speech": "カ"
+          },
+          {
+            "text": "キ",
+            "hint": "ki",
+            "speech": "キ"
+          },
+          {
+            "text": "ク",
+            "hint": "ku",
+            "speech": "ク"
+          },
+          {
+            "text": "ケ",
+            "hint": "ke",
+            "speech": "ケ"
+          },
+          {
+            "text": "コ",
+            "hint": "ko",
+            "speech": "コ"
+          }
+        ],
+        [
+          {
+            "text": "サ",
+            "hint": "sa",
+            "speech": "サ"
+          },
+          {
+            "text": "シ",
+            "hint": "shi",
+            "speech": "シ"
+          },
+          {
+            "text": "ス",
+            "hint": "su",
+            "speech": "ス"
+          },
+          {
+            "text": "セ",
+            "hint": "se",
+            "speech": "セ"
+          },
+          {
+            "text": "ソ",
+            "hint": "so",
+            "speech": "ソ"
+          }
+        ],
+        [
+          {
+            "text": "タ",
+            "hint": "ta",
+            "speech": "タ"
+          },
+          {
+            "text": "チ",
+            "hint": "chi",
+            "speech": "チ"
+          },
+          {
+            "text": "ツ",
+            "hint": "tsu",
+            "speech": "ツ"
+          },
+          {
+            "text": "テ",
+            "hint": "te",
+            "speech": "テ"
+          },
+          {
+            "text": "ト",
+            "hint": "to",
+            "speech": "ト"
+          }
+        ],
+        [
+          {
+            "text": "ナ",
+            "hint": "na",
+            "speech": "ナ"
+          },
+          {
+            "text": "ニ",
+            "hint": "ni",
+            "speech": "ニ"
+          },
+          {
+            "text": "ヌ",
+            "hint": "nu",
+            "speech": "ヌ"
+          },
+          {
+            "text": "ネ",
+            "hint": "ne",
+            "speech": "ネ"
+          },
+          {
+            "text": "ノ",
+            "hint": "no",
+            "speech": "ノ"
+          }
+        ],
+        [
+          {
+            "text": "ハ",
+            "hint": "ha",
+            "speech": "ハ"
+          },
+          {
+            "text": "ヒ",
+            "hint": "hi",
+            "speech": "ヒ"
+          },
+          {
+            "text": "フ",
+            "hint": "fu",
+            "speech": "フ"
+          },
+          {
+            "text": "ヘ",
+            "hint": "he",
+            "speech": "ヘ"
+          },
+          {
+            "text": "ホ",
+            "hint": "ho",
+            "speech": "ホ"
+          }
+        ],
+        [
+          {
+            "text": "マ",
+            "hint": "ma",
+            "speech": "マ"
+          },
+          {
+            "text": "ミ",
+            "hint": "mi",
+            "speech": "ミ"
+          },
+          {
+            "text": "ム",
+            "hint": "mu",
+            "speech": "ム"
+          },
+          {
+            "text": "メ",
+            "hint": "me",
+            "speech": "メ"
+          },
+          {
+            "text": "モ",
+            "hint": "mo",
+            "speech": "モ"
+          }
+        ],
+        [
+          {
+            "text": "ヤ",
+            "hint": "ya",
+            "speech": "ヤ"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "ユ",
+            "hint": "yu",
+            "speech": "ユ"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "ヨ",
+            "hint": "yo",
+            "speech": "ヨ"
+          }
+        ],
+        [
+          {
+            "text": "ラ",
+            "hint": "ra",
+            "speech": "ラ"
+          },
+          {
+            "text": "リ",
+            "hint": "ri",
+            "speech": "リ"
+          },
+          {
+            "text": "ル",
+            "hint": "ru",
+            "speech": "ル"
+          },
+          {
+            "text": "レ",
+            "hint": "re",
+            "speech": "レ"
+          },
+          {
+            "text": "ロ",
+            "hint": "ro",
+            "speech": "ロ"
+          }
+        ],
+        [
+          {
+            "text": "ワ",
+            "hint": "wa",
+            "speech": "ワ"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "ヲ",
+            "hint": "o (wo)",
+            "speech": "オ"
+          }
+        ],
+        [
+          {
+            "text": "ン",
+            "hint": "n",
+            "speech": "ン"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": "voiced",
+      "title": "浊音与半浊音",
+      "intro": "认识右上角的「゛」与「゜」，对照两套假名字形。",
+      "notes": [
+        "か・さ・た・は行加゛形成浊音；は行加゜形成半浊音。",
+        "じ／ぢ、ず／づ在现代标准语中通常同音，写法不同。"
+      ],
+      "columns": 5,
+      "rows": [
+        [
+          {
+            "text": "が／ガ",
+            "hint": "ga",
+            "speech": "ガ"
+          },
+          {
+            "text": "ぎ／ギ",
+            "hint": "gi",
+            "speech": "ギ"
+          },
+          {
+            "text": "ぐ／グ",
+            "hint": "gu",
+            "speech": "グ"
+          },
+          {
+            "text": "げ／ゲ",
+            "hint": "ge",
+            "speech": "ゲ"
+          },
+          {
+            "text": "ご／ゴ",
+            "hint": "go",
+            "speech": "ゴ"
+          }
+        ],
+        [
+          {
+            "text": "ざ／ザ",
+            "hint": "za",
+            "speech": "ザ"
+          },
+          {
+            "text": "じ／ジ",
+            "hint": "ji",
+            "speech": "ジ"
+          },
+          {
+            "text": "ず／ズ",
+            "hint": "zu",
+            "speech": "ズ"
+          },
+          {
+            "text": "ぜ／ゼ",
+            "hint": "ze",
+            "speech": "ゼ"
+          },
+          {
+            "text": "ぞ／ゾ",
+            "hint": "zo",
+            "speech": "ゾ"
+          }
+        ],
+        [
+          {
+            "text": "だ／ダ",
+            "hint": "da",
+            "speech": "ダ"
+          },
+          {
+            "text": "ぢ／ヂ",
+            "hint": "ji",
+            "speech": "ヂ"
+          },
+          {
+            "text": "づ／ヅ",
+            "hint": "zu",
+            "speech": "ヅ"
+          },
+          {
+            "text": "で／デ",
+            "hint": "de",
+            "speech": "デ"
+          },
+          {
+            "text": "ど／ド",
+            "hint": "do",
+            "speech": "ド"
+          }
+        ],
+        [
+          {
+            "text": "ば／バ",
+            "hint": "ba",
+            "speech": "バ"
+          },
+          {
+            "text": "び／ビ",
+            "hint": "bi",
+            "speech": "ビ"
+          },
+          {
+            "text": "ぶ／ブ",
+            "hint": "bu",
+            "speech": "ブ"
+          },
+          {
+            "text": "べ／ベ",
+            "hint": "be",
+            "speech": "ベ"
+          },
+          {
+            "text": "ぼ／ボ",
+            "hint": "bo",
+            "speech": "ボ"
+          }
+        ],
+        [
+          {
+            "text": "ぱ／パ",
+            "hint": "pa",
+            "speech": "パ"
+          },
+          {
+            "text": "ぴ／ピ",
+            "hint": "pi",
+            "speech": "ピ"
+          },
+          {
+            "text": "ぷ／プ",
+            "hint": "pu",
+            "speech": "プ"
+          },
+          {
+            "text": "ぺ／ペ",
+            "hint": "pe",
+            "speech": "ペ"
+          },
+          {
+            "text": "ぽ／ポ",
+            "hint": "po",
+            "speech": "ポ"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "contracted",
+      "title": "拗音：小ゃ・ゅ・ょ",
+      "intro": "一个大假名加一个小假名，合起来算一拍。",
+      "notes": [
+        "きゃ／キャ是一拍；きや／キヤ是两拍。小字与大字不能混读。",
+        "拗音的三个母音是 a・u・o，注意小ゃ、小ゅ、小ょ的字形。"
+      ],
+      "columns": 3,
+      "rows": [
+        [
+          {
+            "text": "きゃ／キャ",
+            "hint": "kya · 1拍",
+            "speech": "キャ"
+          },
+          {
+            "text": "きゅ／キュ",
+            "hint": "kyu · 1拍",
+            "speech": "キュ"
+          },
+          {
+            "text": "きょ／キョ",
+            "hint": "kyo · 1拍",
+            "speech": "キョ"
+          }
+        ],
+        [
+          {
+            "text": "しゃ／シャ",
+            "hint": "sha · 1拍",
+            "speech": "シャ"
+          },
+          {
+            "text": "しゅ／シュ",
+            "hint": "shu · 1拍",
+            "speech": "シュ"
+          },
+          {
+            "text": "しょ／ショ",
+            "hint": "sho · 1拍",
+            "speech": "ショ"
+          }
+        ],
+        [
+          {
+            "text": "ちゃ／チャ",
+            "hint": "cha · 1拍",
+            "speech": "チャ"
+          },
+          {
+            "text": "ちゅ／チュ",
+            "hint": "chu · 1拍",
+            "speech": "チュ"
+          },
+          {
+            "text": "ちょ／チョ",
+            "hint": "cho · 1拍",
+            "speech": "チョ"
+          }
+        ],
+        [
+          {
+            "text": "にゃ／ニャ",
+            "hint": "nya · 1拍",
+            "speech": "ニャ"
+          },
+          {
+            "text": "にゅ／ニュ",
+            "hint": "nyu · 1拍",
+            "speech": "ニュ"
+          },
+          {
+            "text": "にょ／ニョ",
+            "hint": "nyo · 1拍",
+            "speech": "ニョ"
+          }
+        ],
+        [
+          {
+            "text": "ひゃ／ヒャ",
+            "hint": "hya · 1拍",
+            "speech": "ヒャ"
+          },
+          {
+            "text": "ひゅ／ヒュ",
+            "hint": "hyu · 1拍",
+            "speech": "ヒュ"
+          },
+          {
+            "text": "ひょ／ヒョ",
+            "hint": "hyo · 1拍",
+            "speech": "ヒョ"
+          }
+        ],
+        [
+          {
+            "text": "みゃ／ミャ",
+            "hint": "mya · 1拍",
+            "speech": "ミャ"
+          },
+          {
+            "text": "みゅ／ミュ",
+            "hint": "myu · 1拍",
+            "speech": "ミュ"
+          },
+          {
+            "text": "みょ／ミョ",
+            "hint": "myo · 1拍",
+            "speech": "ミョ"
+          }
+        ],
+        [
+          {
+            "text": "りゃ／リャ",
+            "hint": "rya · 1拍",
+            "speech": "リャ"
+          },
+          {
+            "text": "りゅ／リュ",
+            "hint": "ryu · 1拍",
+            "speech": "リュ"
+          },
+          {
+            "text": "りょ／リョ",
+            "hint": "ryo · 1拍",
+            "speech": "リョ"
+          }
+        ],
+        [
+          {
+            "text": "ぎゃ／ギャ",
+            "hint": "gya · 1拍",
+            "speech": "ギャ"
+          },
+          {
+            "text": "ぎゅ／ギュ",
+            "hint": "gyu · 1拍",
+            "speech": "ギュ"
+          },
+          {
+            "text": "ぎょ／ギョ",
+            "hint": "gyo · 1拍",
+            "speech": "ギョ"
+          }
+        ],
+        [
+          {
+            "text": "じゃ／ジャ",
+            "hint": "ja · 1拍",
+            "speech": "ジャ"
+          },
+          {
+            "text": "じゅ／ジュ",
+            "hint": "ju · 1拍",
+            "speech": "ジュ"
+          },
+          {
+            "text": "じょ／ジョ",
+            "hint": "jo · 1拍",
+            "speech": "ジョ"
+          }
+        ],
+        [
+          {
+            "text": "びゃ／ビャ",
+            "hint": "bya · 1拍",
+            "speech": "ビャ"
+          },
+          {
+            "text": "びゅ／ビュ",
+            "hint": "byu · 1拍",
+            "speech": "ビュ"
+          },
+          {
+            "text": "びょ／ビョ",
+            "hint": "byo · 1拍",
+            "speech": "ビョ"
+          }
+        ],
+        [
+          {
+            "text": "ぴゃ／ピャ",
+            "hint": "pya · 1拍",
+            "speech": "ピャ"
+          },
+          {
+            "text": "ぴゅ／ピュ",
+            "hint": "pyu · 1拍",
+            "speech": "ピュ"
+          },
+          {
+            "text": "ぴょ／ピョ",
+            "hint": "pyo · 1拍",
+            "speech": "ピョ"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "extended",
+      "title": "特殊片假名组合",
+      "intro": "认识ティ（ti）等外来音的拼写：小字参与组合，不单独多读一拍。",
+      "notes": [
+        "ティ由テ＋小ィ组成，读ti；チ读chi。ディ与ヂ的读音也要区分。",
+        "トゥ读tu，ツ读tsu。ウィ和大字ウイ的拍数不同。",
+        "ヴ系列用于表示v音；实际口语中有时接近バ行。这里先认识拼写与读音。"
+      ],
+      "columns": 4,
+      "rows": [
+        [
+          {
+            "text": "ティ",
+            "hint": "ti · 1拍",
+            "speech": "ティ"
+          },
+          {
+            "text": "ディ",
+            "hint": "di · 1拍",
+            "speech": "ディ"
+          },
+          {
+            "text": "トゥ",
+            "hint": "tu · 1拍",
+            "speech": "トゥ"
+          },
+          {
+            "text": "ドゥ",
+            "hint": "du · 1拍",
+            "speech": "ドゥ"
+          }
+        ],
+        [
+          {
+            "text": "ファ",
+            "hint": "fa · 1拍",
+            "speech": "ファ"
+          },
+          {
+            "text": "フィ",
+            "hint": "fi · 1拍",
+            "speech": "フィ"
+          },
+          {
+            "text": "フェ",
+            "hint": "fe · 1拍",
+            "speech": "フェ"
+          },
+          {
+            "text": "フォ",
+            "hint": "fo · 1拍",
+            "speech": "フォ"
+          }
+        ],
+        [
+          {
+            "text": "ウィ",
+            "hint": "wi · 1拍",
+            "speech": "ウィ"
+          },
+          {
+            "text": "ウェ",
+            "hint": "we · 1拍",
+            "speech": "ウェ"
+          },
+          {
+            "text": "ウォ",
+            "hint": "wo · 1拍",
+            "speech": "ウォ"
+          },
+          {
+            "text": "シェ",
+            "hint": "she · 1拍",
+            "speech": "シェ"
+          }
+        ],
+        [
+          {
+            "text": "ジェ",
+            "hint": "je · 1拍",
+            "speech": "ジェ"
+          },
+          {
+            "text": "チェ",
+            "hint": "che · 1拍",
+            "speech": "チェ"
+          },
+          {
+            "text": "ツァ",
+            "hint": "tsa · 1拍",
+            "speech": "ツァ"
+          },
+          {
+            "text": "ツィ",
+            "hint": "tsi · 1拍",
+            "speech": "ツィ"
+          }
+        ],
+        [
+          {
+            "text": "ツェ",
+            "hint": "tse · 1拍",
+            "speech": "ツェ"
+          },
+          {
+            "text": "ツォ",
+            "hint": "tso · 1拍",
+            "speech": "ツォ"
+          },
+          {
+            "text": "ヴァ",
+            "hint": "va · 1拍",
+            "speech": "ヴァ"
+          },
+          {
+            "text": "ヴィ",
+            "hint": "vi · 1拍",
+            "speech": "ヴィ"
+          }
+        ],
+        [
+          {
+            "text": "ヴ",
+            "hint": "vu · 1拍",
+            "speech": "ヴ"
+          },
+          {
+            "text": "ヴェ",
+            "hint": "ve · 1拍",
+            "speech": "ヴェ"
+          },
+          {
+            "text": "ヴォ",
+            "hint": "vo · 1拍",
+            "speech": "ヴォ"
+          },
+          {
+            "text": "テュ",
+            "hint": "tyu · 1拍",
+            "speech": "テュ"
+          }
+        ],
+        [
+          {
+            "text": "デュ",
+            "hint": "dyu · 1拍",
+            "speech": "デュ"
+          },
+          {
+            "text": "フュ",
+            "hint": "fyu · 1拍",
+            "speech": "フュ"
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          },
+          {
+            "text": "",
+            "hint": "",
+            "speech": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": "long",
+      "title": "长音：把母音延长一拍",
+      "intro": "拉长的是母音，不是把整段声音重新发一次。",
+      "notes": [
+        "片假名常用「ー」表示长音：アー是两拍，ティー也是两拍。",
+        "平假名常见「ああ・いい・うう・えい・おう」等拼写。えい、おう在许多情况下读成长e、长o；也有保留两个母音的情况，不能一律合并。",
+        "下方仅为声音组合练习。按圆点保持等长拍子。"
+      ],
+      "columns": 3,
+      "rows": [
+        [
+          {
+            "text": "ア → アー",
+            "hint": "a → aa",
+            "speech": "アー",
+            "beats": [
+              "ア",
+              "ー"
+            ]
+          },
+          {
+            "text": "イ → イー",
+            "hint": "i → ii",
+            "speech": "イー",
+            "beats": [
+              "イ",
+              "ー"
+            ]
+          },
+          {
+            "text": "ウ → ウー",
+            "hint": "u → uu",
+            "speech": "ウー",
+            "beats": [
+              "ウ",
+              "ー"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "エ → エー",
+            "hint": "e → ee",
+            "speech": "エー",
+            "beats": [
+              "エ",
+              "ー"
+            ]
+          },
+          {
+            "text": "オ → オー",
+            "hint": "o → oo",
+            "speech": "オー",
+            "beats": [
+              "オ",
+              "ー"
+            ]
+          },
+          {
+            "text": "ティ → ティー",
+            "hint": "ti → tii",
+            "speech": "ティー",
+            "beats": [
+              "ティ",
+              "ー"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "stop",
+      "title": "促音：小っ／ッ占一拍",
+      "intro": "先短暂堵住或停住气流，再发后面的辅音；不要把小っ读成「つ」。",
+      "notes": [
+        "ッ本身没有可单独朗读的母音；练习时放进声音组合。",
+        "「カッカ」有三拍：カ・停一拍・カ。两侧的カ不能直接连起来。",
+        "停顿是一拍，不是随意拖长。与「カー」延长母音的感觉不同。",
+        "在サ行等摩擦音前，促音表现为摩擦声延长一拍，不一定完全无声；サッサ中保持s的摩擦，再发后面的サ。"
+      ],
+      "columns": 3,
+      "rows": [
+        [
+          {
+            "text": "カッカ",
+            "hint": "ka · 停 · ka",
+            "speech": "カッカ",
+            "beats": [
+              "カ",
+              "ッ（停）",
+              "カ"
+            ]
+          },
+          {
+            "text": "パッパ",
+            "hint": "pa · 停 · pa",
+            "speech": "パッパ",
+            "beats": [
+              "パ",
+              "ッ（停）",
+              "パ"
+            ]
+          },
+          {
+            "text": "サッサ",
+            "hint": "sa · 停 · sa",
+            "speech": "サッサ",
+            "beats": [
+              "サ",
+              "ッ（停）",
+              "サ"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "nasal",
+      "title": "拨音：ん／ン占一拍",
+      "intro": "把鼻音保留一拍；不要自动加上「う」或其他母音。",
+      "notes": [
+        "ん／ン是一拍，实际发音会随前后声音发生变化，不是永远固定的n音。",
+        "与长音、促音一样，要把这一个拍子听出来、数出来。",
+        "用下面的声音序列练节奏，不作单词记忆。"
+      ],
+      "columns": 3,
+      "rows": [
+        [
+          {
+            "text": "アン",
+            "hint": "a · 鼻音",
+            "speech": "アン",
+            "beats": [
+              "ア",
+              "ン"
+            ]
+          },
+          {
+            "text": "イン",
+            "hint": "i · 鼻音",
+            "speech": "イン",
+            "beats": [
+              "イ",
+              "ン"
+            ]
+          },
+          {
+            "text": "ウン",
+            "hint": "u · 鼻音",
+            "speech": "ウン",
+            "beats": [
+              "ウ",
+              "ン"
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
